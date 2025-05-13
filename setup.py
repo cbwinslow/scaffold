@@ -1,12 +1,12 @@
 from setuptools import setup
 
 setup(
-    name='cbw-scaffold',
+    name='chatgpt-scaffold',
     version='0.1.1',
-    py_modules=['scaffold'],
+    py_modules=['chatgpt-scaffold'],
     entry_points={
         'console_scripts': [
-            'scaffold=scaffold:main',
+            'chatgpt-scaffold=chatgpt-scaffold:main',
         ],
     },
     author='Blaine Winslow',
