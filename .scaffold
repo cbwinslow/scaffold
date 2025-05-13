@@ -1,0 +1,12 @@
+cbw-scaffold/
+├── scaffold.py
+├── README.md
+├── LICENSE
+├── .directory (example)
+├── setup.py
+├── .gitignore
+├── .github/
+│   └── workflows/
+│       └── python.yml
+└── tests/
+    └── test_tokenizer.py (optional)
