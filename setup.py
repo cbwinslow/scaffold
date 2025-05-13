@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='chatgpt-scaffold',
-    version='0.1.1',
+    version='0.1.2',
     py_modules=['chatgpt-scaffold'],
     entry_points={
         'console_scripts': [
