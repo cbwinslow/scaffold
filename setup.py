@@ -1,8 +1,8 @@
 from setuptools import setup
 
 setup(
-    name='scaffold',
-    version='0.1.0',
+    name='cbw-scaffold',
+    version='0.1.1',
     py_modules=['scaffold'],
     entry_points={
         'console_scripts': [
